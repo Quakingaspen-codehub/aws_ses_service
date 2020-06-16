@@ -11,12 +11,14 @@ This library is to help send emails using AWS ses service
 
 <h2 id="Started">Getting Started</h2>
 In order to install, open the command prompt and type ✌️:
+
 ```
 pip install aws_ses_service
 ```
+
 <h2 id="Example">Example</h2>
 
-The following directory [Example](https://github.com/Quakingaspen-codehub/aws_ses_service/tree/master/Example) shows a multiple example about how to use webhook_manager modules
+The following directory [Example](https://github.com/Quakingaspen-codehub/aws_ses_service/blob/master/Example/aws-ses-service%20Example.ipynb) shows a multiple example about how to use webhook_manager modules
 
 
 <h2 id="">Contributors</h2>
