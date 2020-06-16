@@ -1,3 +1,6 @@
+<h6 align="left">
+    <img src="https://cdnquakingaspen.s3.eu-central-1.amazonaws.com/quaking+aspen+logo+teal+full-02.png"  />
+</h6>
 # aws_ses_service
 
 [Introduction](#Introduction)\
