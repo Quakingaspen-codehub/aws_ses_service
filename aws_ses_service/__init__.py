@@ -1,4 +1,5 @@
 import boto3
+import os
 from email.mime.multipart import MIMEMultipart
 
 
