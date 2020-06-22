@@ -3,7 +3,7 @@ from email.mime.multipart import MIMEMultipart
 
 
 class Email:
-    client = boto3.client('ses')
+    client = boto3.client('ses',region_name=os.environ['region_name'])
 
     def __init__(self, sender, receiver, subject, body=list(), attachments=list()):
         self.sender = sender
