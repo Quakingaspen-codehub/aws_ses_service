@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="aws_ses_service",
-    version="0.0.8",
+    version="0.0.9",
     author="Quaking Aspen",
     author_email="info@quakingaspen.net",
     description="This library is to help send emails using AWS ses service",
